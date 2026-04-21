@@ -1,0 +1,6 @@
+influencer-event-platform/
+├── backend/                 # Node.js + Express API
+├── web/                     # React Web Application
+├── mobile/                  # React Native Mobile App
+├── docs/                    # Documentation
+└── README.md
