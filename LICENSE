@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 dmohit89
+Copyright (c) 2026 launchliftmedias.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+## Project Summary
+
+This complete platform includes:
+
+1. **Backend API** with:
+   - User authentication (admin + social OAuth for influencers)
+   - Full CRUD for events, categories, influencers
+   - Application management system
+   - Real-time notifications via Socket.io
+   - Region-based filtering and analytics
+
+2. **Web Application** with:
+   - Public homepage showing events and top influencers
+   - Event browsing and detail pages
+   - Admin dashboard with full management capabilities
+   - Professional UI with TailwindCSS and Framer Motion
+
+3. **Mobile Application** with:
+   - Social media OAuth login
+   - Event discovery feed
+   - Profile with synced social stats
+   - Application tracking
+
+The codebase is production-ready with proper error handling, validation, and security measures. Clone the repo, configure environment variables, and deploy!
+
